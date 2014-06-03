@@ -1,6 +1,6 @@
 # saward/pq
 
-Postgresql helper code.
+Postgresql helper code for golang.
 
 ## Money
 
