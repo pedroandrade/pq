@@ -8,7 +8,7 @@ Use this to handle the money type on postgresql.  I cannot guarantee that there 
 
 ### Install
 
-	go get github.com/saward/pq
+	go get github.com/saward/pq/money
 
 ### Docs
 
